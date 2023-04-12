@@ -12,3 +12,13 @@ align-items: center;
 .pic{
  gap: 28px;
 }
+.flex{
+    display: flex;
+}
+.img{
+    position: absolute;
+width: 1000px;
+height: 1000px;
+left: 1236px;
+top: 94px;
+}
